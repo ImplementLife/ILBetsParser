@@ -46,4 +46,19 @@
             </plugin>
         </plugins>
     </build>
+
+    <profiles>
+        <profile>
+            <id>no-tests</id>
+            <properties>
+                <maven.test.skip>true</maven.test.skip>
+            </properties>
+        </profile>
+        <profile>
+            <id>docker-run</id>
+            <properties>
+                <appPropProfile>docker</appPropProfile>
+            </properties>
+        </profile>
+    </profiles>
 </project>
