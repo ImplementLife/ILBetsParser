@@ -7,7 +7,6 @@
 
     <modules>
         <module>Bots</module>
-        <module>Kafka</module>
         <module>Server</module>
     </modules>
 </project>
