@@ -6,7 +6,7 @@
 
     <groupId>il.bets</groupId>
     <artifactId>server</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>Server</name>
 
     <packaging>jar</packaging>

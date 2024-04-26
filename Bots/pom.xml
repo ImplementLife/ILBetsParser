@@ -6,9 +6,8 @@
 
     <groupId>il.bets</groupId>
     <artifactId>bots</artifactId>
-    <version>1.0-SNAPSHOT</version>
+    <version>1.0</version>
     <name>Bots</name>
-
 
     <packaging>jar</packaging>
 
